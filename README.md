@@ -41,8 +41,9 @@
 - Provides page number of the information
 - Combines retrieval and reasoning (RAG architecture)
 
-  <video src="SimpleRag.mp4"></video>
-
+<p align="center">
+  <img src="RagAgent.png" width="600">
+</p>
 
 ## 🛠 Technologies Used
 
