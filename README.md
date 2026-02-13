@@ -11,8 +11,9 @@
 - Generates explanations and summaries
 - Maintains natural conversation flow
 
-  <video src="chatBot.mp4"></video>
-
+<p align="center">
+  <img src="ChatBot.png" width="600">
+</p>
 
 
 
@@ -25,8 +26,9 @@
 - Provides structured and professional responses
 - Enforces domain-restricted logic
 
-  <video src="chatQM.mp4"></video>
-
+<p align="center">
+  <img src="ChatQM.png" width="600">
+</p>
 
 
 ## 3️⃣ Knowledge-Based AI Agent
