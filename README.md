@@ -11,7 +11,7 @@
 - Generates explanations and summaries
 - Maintains natural conversation flow
 
----
+
 
 ## 2️⃣ Quality-Specific ChatBot
 
@@ -22,7 +22,7 @@
 - Provides structured and professional responses
 - Enforces domain-restricted logic
 
----
+
 
 ## 3️⃣ Knowledge-Based AI Agent
 
@@ -34,7 +34,7 @@
 - Provides page number of the information
 - Combines retrieval and reasoning (RAG architecture)
 
----
+
 
 ## 🛠 Technologies Used
 
