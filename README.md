@@ -1,10 +1,6 @@
-# weekly
+# Weekly Summary
 
-# 🤖 AI Agents Project
 
-This project contains three different AI systems with distinct capabilities.
-
----
 
 ## 1️⃣ General ChatBot
 
