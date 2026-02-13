@@ -11,6 +11,9 @@
 - Generates explanations and summaries
 - Maintains natural conversation flow
 
+  <video src="chatBot.mp4"></video>
+
+
 
 
 ## 2️⃣ Quality-Specific ChatBot
@@ -21,6 +24,8 @@
 - Rejects questions outside the quality domain
 - Provides structured and professional responses
 - Enforces domain-restricted logic
+
+  <video src="chatQM.mp4"></video>
 
 
 
@@ -34,6 +39,7 @@
 - Provides page number of the information
 - Combines retrieval and reasoning (RAG architecture)
 
+  <video src="SimpleRag.mp4"></video>
 
 
 ## 🛠 Technologies Used
